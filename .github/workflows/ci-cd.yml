@@ -30,8 +30,8 @@ jobs:
     - name: Run tests
       run: |
         . venv/bin/activate
-        # Aqui você pode adicionar comandos para executar testes, se tiver algum.
-        echo "Tests passed"
+        # Aqui eu posso adicionar comandos para executar testes.
+        echo "API funcionando"
 
     - name: Build Docker image
       run: docker build -t comments_api .

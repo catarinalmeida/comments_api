@@ -1,0 +1,201 @@
+O Windows PowerShell
+Copyright (C) Microsoft Corporation. Todos os direitos reservados.
+
+Instale o PowerShell mais recente para obter novos recursos e aprimoramentos! https://aka.ms/PSWindows
+
+PS C:\Users\catar> git init
+Initialized empty Git repository in C:/Users/catar/.git/
+PS C:\Users\catar> git remote add origin https://github.com/catarinalmeida/comments_api.git
+PS C:\Users\catar> git add .
+warning: could not open directory 'Ambiente de Impressão/': Permission denied
+warning: could not open directory 'Ambiente de Rede/': Permission denied
+warning: could not open directory 'AppData/Local/Dados de Aplicativos/': Permission denied
+warning: could not open directory 'AppData/Local/ElevatedDiagnostics/': Permission denied
+warning: could not open directory 'AppData/Local/Histórico/': Permission denied
+warning: could not open directory 'AppData/Local/Microsoft/Windows/INetCache/Content.IE5/': Permission denied
+warning: could not open directory 'AppData/Local/Microsoft/Windows/INetCache/Low/Content.IE5/': Permission denied
+warning: could not open directory 'AppData/Local/Microsoft/Windows/Temporary Internet Files/': Permission denied
+warning: could not open directory 'AppData/Local/Temp/msdtadmin/': Permission denied
+warning: could not open directory 'AppData/Local/Temporary Internet Files/': Permission denied
+warning: could not open directory 'AppData/Roaming/Microsoft/Windows/Start Menu/Programas/': Permission denied
+warning: could not open directory 'Configurações Locais/': Permission denied
+warning: could not open directory 'Cookies/': Permission denied
+warning: could not open directory 'Dados de Aplicativos/': Permission denied
+warning: could not open directory 'Documents/Meus Vídeos/': Permission denied
+warning: could not open directory 'Documents/Minhas Imagens/': Permission denied
+warning: could not open directory 'Documents/Minhas Músicas/': Permission denied
+warning: could not open directory 'Menu Iniciar/': Permission denied
+warning: could not open directory 'Meus Documentos/': Permission denied
+warning: could not open directory 'Modelos/': Permission denied
+warning: could not open directory 'Recent/': Permission denied
+warning: could not open directory 'SendTo/': Permission denied
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/73c9d3c70e52c5b34bfc6bb748272769.settings', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/META-INF/container.xml',LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/content.opf', LF will bereplaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/page_styles.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/stylesheet.css', LF willbe replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0000.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0001.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0002.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0003.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0004.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_000.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_001.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_002.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_003.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_004.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_005.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_006.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_007.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_008.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_009.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_010.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_011.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_012.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_013.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_014.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_015.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_016.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_017.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_018.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_019.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_020.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_021.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_022.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_023.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_024.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_025.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_026.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_027.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_028.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_029.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_030.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_031.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_032.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_033.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_034.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_035.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_036.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_037.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_038.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_039.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_040.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_041.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_042.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_043.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_044.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_045.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_046.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_047.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_048.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_049.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_050.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_051.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_052.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_053.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_054.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_055.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_056.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_057.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_058.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_059.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_060.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_061.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_062.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0005_split_063.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0006_split_000.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0006_split_001.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0006_split_002.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0006_split_003.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0006_split_004.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0006_split_005.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0006_split_006.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0006_split_007.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0006_split_008.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0006_split_009.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0006_split_010.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0006_split_011.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0006_split_012.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0006_split_013.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0006_split_014.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0006_split_015.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0006_split_016.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0006_split_017.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0006_split_018.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0007.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0008_split_000.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0008_split_001.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0009_split_000.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0009_split_001.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0010_split_000.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0010_split_001.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0010_split_002.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/text/part0011.html.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/titlepage.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/73c9d3c70e52c5b34bfc6bb748272769/toc.ncx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/bc68c0fdd20c75ae4b2dd26b069d8721/OEBPS/Text/Chapter00.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/bc68c0fdd20c75ae4b2dd26b069d8721/OEBPS/Text/Chapter01.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/bc68c0fdd20c75ae4b2dd26b069d8721/OEBPS/Text/Chapter02.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/bc68c0fdd20c75ae4b2dd26b069d8721/OEBPS/Text/Chapter03.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/bc68c0fdd20c75ae4b2dd26b069d8721/OEBPS/Text/Chapter04.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/bc68c0fdd20c75ae4b2dd26b069d8721/OEBPS/Text/Chapter05.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/bc68c0fdd20c75ae4b2dd26b069d8721/OEBPS/Text/Chapter06.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/bc68c0fdd20c75ae4b2dd26b069d8721/OEBPS/Text/Chapter07.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/bc68c0fdd20c75ae4b2dd26b069d8721/OEBPS/Text/Chapter08.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/bc68c0fdd20c75ae4b2dd26b069d8721/OEBPS/Text/Chapter09.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/bc68c0fdd20c75ae4b2dd26b069d8721/OEBPS/Text/Chapter10.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/bc68c0fdd20c75ae4b2dd26b069d8721/OEBPS/Text/Chapter11.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/bc68c0fdd20c75ae4b2dd26b069d8721/OEBPS/Text/Chapter12.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/bc68c0fdd20c75ae4b2dd26b069d8721/OEBPS/Text/Chapter13.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/bc68c0fdd20c75ae4b2dd26b069d8721/OEBPS/Text/Chapter14.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/bc68c0fdd20c75ae4b2dd26b069d8721/OEBPS/Text/Chapter15.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/bc68c0fdd20c75ae4b2dd26b069d8721/OEBPS/Text/Chapter16.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/bc68c0fdd20c75ae4b2dd26b069d8721/OEBPS/Text/Chapter17.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/bc68c0fdd20c75ae4b2dd26b069d8721/OEBPS/Text/Chapter18.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/bc68c0fdd20c75ae4b2dd26b069d8721/OEBPS/Text/Chapter19.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/bc68c0fdd20c75ae4b2dd26b069d8721/OEBPS/Text/Chapter20.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/bc68c0fdd20c75ae4b2dd26b069d8721/OEBPS/Text/Chapter21.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/bc68c0fdd20c75ae4b2dd26b069d8721/OEBPS/Text/Copyright.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/bc68c0fdd20c75ae4b2dd26b069d8721/OEBPS/Text/Couv.xhtml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/bc68c0fdd20c75ae4b2dd26b069d8721/OEBPS/Text/Titre.xhtml',LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/bc68c0fdd20c75ae4b2dd26b069d8721/OEBPS/content.opf', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/books/bc68c0fdd20c75ae4b2dd26b069d8721/bc68c0fdd20c75ae4b2dd26b069d8721.settings', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.Icecream Ebook Reader/log/dxdiag.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.docker/.token_seed', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.docker/config.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.docker/daemon.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.docker/windows-daemon.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/AcroCef/DC/Acrobat/Cache/CURRENT', LF will be replaced by CRLF thenext time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/AcroCef/DC/Acrobat/Cache/LOG', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/AcroCef/DC/Acrobat/Cache/LOG.old', LF will be replaced by CRLF thenext time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/AcroCef/DC/Acrobat/Cache/Local Storage/leveldb/CURRENT', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/AcroCef/DC/Acrobat/Cache/Local Storage/leveldb/LOG', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/AcroCef/DC/Acrobat/Cache/Local Storage/leveldb/LOG.old', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/AcroCef/DC/Acrobat/Cache/Session Storage/CURRENT', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/AcroCef/DC/Acrobat/Cache/Session Storage/LOG', LF will be replacedby CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/AcroCef/DC/Acrobat/Cache/Session Storage/LOG.old', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/Acrobat/DC/AdobeCMapFnt23.lst', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/Acrobat/DC/AdobeCMapFnt24.lst', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/Acrobat/DC/AdobeSysFnt23.lst', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/Acrobat/DC/AdobeSysFnt24.lst', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/Acrobat/DC/Cache/AcroFnt23.lst', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'AppData/Local/Adobe/Acrobat/DC/Cache/AcroFnt24.lst', LF will be replaced by CRLF the next time Git touches it
+error: open("AppData/Local/BitTorrentHelper/ledger.bt.co.lock"): Permission denied
+error: unable to index file 'AppData/Local/BitTorrentHelper/ledger.bt.co.lock'
+fatal: adding files failed
+PS C:\Users\catar> git commit -m "Primeiro commit da API de comentários"
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'catar@Catarina.(none)')
+PS C:\Users\catar>
+fwd-i-search: _

@@ -8,3 +8,5 @@ WORKDIR /app
 COPY . .
 RUN pip install -r requirements.txt
 CMD ["python", "app.py"]
+
+nano dockerfile/prometheus/Dockerfile  # ou use outro editor de sua preferência
